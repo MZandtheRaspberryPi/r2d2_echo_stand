@@ -28,4 +28,4 @@ Used M2x20mm screw for middle foot and body,  2x M4x12mm and M4 Nutts for fixate
 ### Showing it Off
 ![show off 1](./20210220_140757.jpg)    
 
-![show off 2](./20210220_140757.jpg)
+![show off 2](./20210220_140804.jpg)
