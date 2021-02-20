@@ -1,6 +1,7 @@
 # r2d2_echo_stand
 Documenting a Project to 3d Print an R2D2 sculpture with room for my Amazon echo dot Gen 3 inside.    
-!(r2d2)[./20210220_140757.jpg]
+
+![r2d2](./20210220_140757.jpg)
 
 Imported into Fusion 360. Realized they import in CM so scaled down model by 1/10. Did planar cuts with fill minimal. Printed these out.
 
@@ -9,7 +10,7 @@ This link showed me that importing is in CM by default: https://forums.autodesk.
 And here is a helpful resource on cutting 3d models in fusion 360 to print: https://www.youtube.com/watch?v=KFQ4-1GH0wg     
 
 I included the STL files for the split body in the repo.     
-!(r2d2 split body)[./r2d2 body.PNG]
+![r2d2 split body](./r2d2 body.PNG)
 
 Printed slowly over a couple weeks.
 
