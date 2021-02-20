@@ -5,7 +5,9 @@ Imported into Fusion 360. Realized they import in CM so scaled down model by 1/1
 
 This link showed me that importing is in CM by default: https://forums.autodesk.com/t5/fusion-360-design-validate/why-are-fusion-dimensions-10x-greater-on-imported-stl-files/td-p/5439722     
 
-And here is a helpful resource on cutting 3d models in fusion 360 to print: https://www.youtube.com/watch?v=KFQ4-1GH0wg
+And here is a helpful resource on cutting 3d models in fusion 360 to print: https://www.youtube.com/watch?v=KFQ4-1GH0wg     
+
+I included the STL files for the split body in the repo.
 
 Printed slowly over a couple weeks.
 
