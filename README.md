@@ -10,7 +10,7 @@ This link showed me that importing is in CM by default: https://forums.autodesk.
 And here is a helpful resource on cutting 3d models in fusion 360 to print: https://www.youtube.com/watch?v=KFQ4-1GH0wg     
 
 I included the STL files for the split body in the repo.     
-![r2d2 split body](./r2d2 body.PNG)
+![r2d2 split body](./'r2d2 body.PNG')
 
 Printed slowly over a couple weeks.
 
