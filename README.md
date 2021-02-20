@@ -16,3 +16,16 @@ Printed slowly over a couple weeks.
 
 Used M2x20mm screw for middle foot and body,  2x M4x12mm and M4 Nutts for fixateur to alexa part, 2x M3x12mm for left leg to left foot and right leg to right foot.     
 
+### Laying it all out
+![mis en place](./20210220_121328.jpg)    
+
+### Removing supports
+![removing supports](./20210220_113406.jpg)     
+
+### Assembling
+![assembly](./20210220_135254.jpg)    
+
+### Showing it Off
+![show off 1](./20210220_140757.jpg)    
+
+![show off 2](./20210220_140757.jpg)
