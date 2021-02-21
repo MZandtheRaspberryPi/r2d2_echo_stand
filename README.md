@@ -1,5 +1,5 @@
 # r2d2_echo_stand
-Documenting a Project to 3d Print an R2D2 sculpture with room for my Amazon echo dot Gen 3 inside.    
+Documenting a Project to 3d Print an R2D2 sculpture with room for my Amazon echo dot Gen 3 inside. [Here](https://www.thingiverse.com/thing:4354796) is the model i used.     
 
 ![r2d2](./20210220_140757.jpg)
 
