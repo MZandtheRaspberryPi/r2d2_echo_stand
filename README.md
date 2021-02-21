@@ -16,6 +16,8 @@ Printed slowly over a couple weeks.
 
 Used M2x20mm screw for middle foot and body,  2x M4x12mm and M4 Nutts for fixateur to alexa part, 2x M3x12mm for left leg to left foot and right leg to right foot.     
 
+I learned that when splitting a large body, it works best to put in joints like dovetail joints so that you can easily glue it together. Dovetail joints or something like that would make it easy to line up the body pieces when glueing, while also giving more strength due to more surface area to glue. In particular, I had a tough time lining up my body pieces when glueing.
+
 ### Laying it all out
 ![mis en place](./20210220_121328.jpg)    
 
